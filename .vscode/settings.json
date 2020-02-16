@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Users\\zhang\\Anaconda3\\envs\\cv_contrib\\python.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true
+}
